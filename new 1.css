@@ -134,13 +134,13 @@ html, body {
  opacity: 0.70;
 }
 
-#flat .parallax-two {
+#flat .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://rawcdn.githack.com/fayruru/bibaboba/refs/heads/main/6d2529bd2d2d2c84ebae07945f974c61.jpg");
+ background-image: url("https://raw.githubusercontent.com/fayruru/bibaboba/refs/heads/main/6d2529bd2d2d2c84ebae07945f974c61.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -149,7 +149,7 @@ html, body {
  background-position: top center;
 }
 
-#flat .parallax-three {
+#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -164,7 +164,7 @@ html, body {
  background-position: center;
 }
 
-#flat .parallax-one {
+#flat .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
