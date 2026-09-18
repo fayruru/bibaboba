@@ -9,12 +9,11 @@ html, body {
 }
 
 .box {
-    width: 100%;
-    position: absolute;
-    margin-top: -400px;
-  overflow: auto;
+  width: 100%;        /* Растягиваем на всю ширину, как в оригинале */
+  position: relative; /* Возвращаем в нормальный поток документов */
+  margin: 0 auto;     /* Центрируем блок на странице */
+  overflow: visible;  /* Позволяем элементам корректно отображаться */
 }
-
 #main {
  width: 100%;
  padding: 0;
