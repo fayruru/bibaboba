@@ -9,9 +9,9 @@ html, body {
 }
 
 .box {
-    width: 80%;
+    width: 100%;
     position: absolute;
-    margin-top: -400px;
+    margin-top: -450px;
   overflow: auto;
 }
 
