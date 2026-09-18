@@ -12,7 +12,10 @@ html, body {
     width: 100%;
     position: absolute;
     margin-top: 0px;
-  overflow: auto;
+  left: 0 !important;
+  right: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 #main {
@@ -117,8 +120,7 @@ html, body {
  width: 820px;
  margin: 0 auto;
  text-align: justify;
- float: left !important;
-  margin-left: 50px !important;
+
 }
 
 #flat .block-gray {
