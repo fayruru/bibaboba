@@ -11,9 +11,10 @@ html, body {
 .box {
     width: 100%;
     position: absolute;
-    margin-top: -450px;
+    margin-top: 0px;
   overflow: auto;
 }
+
 #main {
  width: 100%;
  padding: 0;
@@ -116,7 +117,7 @@ html, body {
  width: 820px;
  margin: 0 auto;
  text-align: justify;
-  float: left !important;
+ float: left !important;
   margin-left: 50px !important;
 }
 
