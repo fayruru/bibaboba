@@ -116,6 +116,8 @@ html, body {
  width: 820px;
  margin: 0 auto;
  text-align: justify;
+  float: left !important;
+  margin-left: 50px !important;
 }
 
 #flat .block-gray {
