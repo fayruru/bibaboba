@@ -9,7 +9,7 @@ html, body {
 }
 
 .box {
-    width: 60%;
+    width: 100%;
     position: absolute;
     margin-top: -450px;
   overflow: auto;
