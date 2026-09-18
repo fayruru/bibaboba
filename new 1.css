@@ -17,6 +17,7 @@ html, body {
 #main {
  width: 100%;
  padding: 0;
+float: left !important;
 }
 .content-asset p {
  margin: 0 auto;
