@@ -9,11 +9,10 @@ html, body {
 }
 
 .box {
-    width: 100%;
-    position: relative; /* Меняем абсолютное позиционирование на относительное */
-    margin-top: 0px;
-    overflow: hidden;   /* Предотвращает появление лишних полос прокрутки */
-
+    width: 80%;
+    position: absolute;
+    margin-top: -450px;
+  overflow: auto;
 }
 
 #main {
