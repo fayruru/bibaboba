@@ -12,11 +12,11 @@ html, body {
     width: 100%;
     position: absolute;
     margin-top: 0px;
-  left: 0 !important;
-  right: 0 !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-   overflow:hidden !important
+  left: 0 ;
+  right: 0 ;
+  margin-left: 0 ;
+  margin-right: 0 ;
+   overflow:hidden 
 }
 
 #main {
