@@ -12,9 +12,8 @@ html, body {
     width: 100%;
     position: absolute;
     margin-top: -450px;
-  overflow: auto;
+   overflow:hidden 
 }
-
 
 #main {
  width: 100%;
